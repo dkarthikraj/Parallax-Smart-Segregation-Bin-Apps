@@ -21,19 +21,18 @@
 
 ---
 
-## 🌐 Live Interactive Applications (3 Interfaces)
+## 🌐 Web Applications (3 Interfaces)
 
-Experience the live interactive web applications built for all three ecosystem user groups:
+The project includes all 3 interactive web interfaces built for the SIH 2026 ecosystem:
 
-| Interface | Target User Group | Primary Features & Description | Live Route & Route Hash |
-|---|---|---|---|
-| **1️⃣ Citizen App** | Households & Residents | Multi-bin switcher (`Main Kitchen Bin`, `Balcony Bin`, `Garage Bin`), Software-Defined Slot Re-mapping across 6 categories, QR pass, 1,720 PTS rewards, spin wheel & raffles. | `/#/` |
-| **2️⃣ Driver App** | Sanitation Fleet Drivers | Driver collection portal featuring one-tap camera **`SCAN CITIZEN QR`** scanner, household search by phone/address, and fleet unit operator details. | `/#/driver` |
-| **3️⃣ Municipal Admin** | City Sanitation Authorities | Executive command dashboard with real-time ward telemetry (14 Households, 2,657 kg Daily Waste, 83% Accuracy), 7-day category trend charts, driver fleet dispatch, and complaint resolution. | `/#/municipal` |
-| **⭐ SIH Showcase** | Hackathon Evaluators | Full interactive SIH 2026 presentation, live demo launcher, technical architecture breakdown, and research references. | `/#/demo` |
+| Interface | Target User Group | App Route |
+|---|---|---|
+| **1️⃣ Citizen App** | Households & Residents | `/#/` |
+| **2️⃣ Driver App** | Sanitation Fleet Drivers | `/#/driver` |
+| **3️⃣ Municipal Admin** | City Sanitation Authorities | `/#/municipal` |
+| **⭐ SIH Showcase** | Presentation & Architecture | `/#/demo` |
 
-> 🔗 **Official Live Hosted Application**: [https://dkarthikraj.github.io/Parallax-Smart-Segregation-Bin-Apps/](https://dkarthikraj.github.io/Parallax-Smart-Segregation-Bin-Apps/)  
-> *(Switch between **CITIZEN APP**, **DRIVER APP**, **MUNICIPAL ADMIN**, and **SIH 2026 DOCS** at any time using the top app switcher navigation bar!)*
+*Use the top app switcher bar to toggle between any interface.*
 
 ---
 
