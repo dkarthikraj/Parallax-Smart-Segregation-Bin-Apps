@@ -32,7 +32,7 @@ Experience the live interactive web applications built for all three ecosystem u
 | **3️⃣ Municipal Admin** | City Sanitation Authorities | Executive command dashboard with real-time ward telemetry (14 Households, 2,657 kg Daily Waste, 83% Accuracy), 7-day category trend charts, driver fleet dispatch, and complaint resolution. | `/#/municipal` |
 | **⭐ SIH Showcase** | Hackathon Evaluators | Full interactive SIH 2026 presentation, live demo launcher, technical architecture breakdown, and research references. | `/#/demo` |
 
-> 🔗 **Live Web Demo Deployment**: [https://temporary-sonic-banjo-74cgp22.vercel.app/#/](https://temporary-sonic-banjo-74cgp22.vercel.app/#/)  
+> 🔗 **Official Live Hosted Application**: [https://dkarthikraj.github.io/Parallax-Smart-Segregation-Bin-Apps/](https://dkarthikraj.github.io/Parallax-Smart-Segregation-Bin-Apps/)  
 > *(Switch between **CITIZEN APP**, **DRIVER APP**, **MUNICIPAL ADMIN**, and **SIH 2026 DOCS** at any time using the top app switcher navigation bar!)*
 
 ---
