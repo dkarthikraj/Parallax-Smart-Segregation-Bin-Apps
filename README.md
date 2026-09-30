@@ -25,12 +25,15 @@
 
 Experience the live interactive web applications built for all three ecosystem user groups:
 
-| Interface | Target User Group | Primary Features & Description | Live Route |
+| Interface | Target User Group | Primary Features & Description | Live Route & Route Hash |
 |---|---|---|---|
-| **1️⃣ Citizen App** | Households & Residents | Multi-bin switcher (`Main Kitchen Bin`, `Balcony Bin`, `Garage Bin`), Software-Defined Slot Re-mapping across 6 categories, QR pass, 1,720 PTS rewards, spin wheel & raffles. | [Launch Citizen App](/#/) |
-| **2️⃣ Driver App** | Sanitation Fleet Drivers | Driver collection portal featuring one-tap camera **`SCAN CITIZEN QR`** scanner, household search by phone/address, and fleet unit operator details. | [Launch Driver App](/#/driver) |
-| **3️⃣ Municipal Admin** | City Sanitation Authorities | Executive command dashboard with real-time ward telemetry (14 Households, 2,657 kg Daily Waste, 83% Accuracy), 7-day category trend charts, driver fleet dispatch, and complaint resolution. | [Launch Municipal Admin](/#/municipal) |
-| **⭐ SIH Showcase** | Hackathon Evaluators | Full interactive SIH 2026 presentation, live demo launcher, technical architecture breakdown, and research references. | [SIH 2026 Showcase](/#/demo) |
+| **1️⃣ Citizen App** | Households & Residents | Multi-bin switcher (`Main Kitchen Bin`, `Balcony Bin`, `Garage Bin`), Software-Defined Slot Re-mapping across 6 categories, QR pass, 1,720 PTS rewards, spin wheel & raffles. | `/#/` |
+| **2️⃣ Driver App** | Sanitation Fleet Drivers | Driver collection portal featuring one-tap camera **`SCAN CITIZEN QR`** scanner, household search by phone/address, and fleet unit operator details. | `/#/driver` |
+| **3️⃣ Municipal Admin** | City Sanitation Authorities | Executive command dashboard with real-time ward telemetry (14 Households, 2,657 kg Daily Waste, 83% Accuracy), 7-day category trend charts, driver fleet dispatch, and complaint resolution. | `/#/municipal` |
+| **⭐ SIH Showcase** | Hackathon Evaluators | Full interactive SIH 2026 presentation, live demo launcher, technical architecture breakdown, and research references. | `/#/demo` |
+
+> 🔗 **Live Web Demo Deployment**: [https://temporary-sonic-banjo-74cgp22.vercel.app/#/](https://temporary-sonic-banjo-74cgp22.vercel.app/#/)  
+> *(Switch between **CITIZEN APP**, **DRIVER APP**, **MUNICIPAL ADMIN**, and **SIH 2026 DOCS** at any time using the top app switcher navigation bar!)*
 
 ---
 
